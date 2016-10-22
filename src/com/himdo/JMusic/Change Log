@@ -1,19 +1,30 @@
 Change Log
+
+0.0.7
++ Paths and loading all songs from said Path
++loading all songs from paths
++ title with version number
+
 0.0.6
 + +15 and -15second button
 +a time remaining bar
-fixed being paused and still playing after fast forward or rewinds
+* being paused and still playing after fast forward or rewinds
+
 0.0.5
 +Time progress bar works
 +added change log
+
 0.0.4
 +title of song and song time
 *loop button activating after song is stopped
+
 0.0.3
 +pause button
 +loop button
+
 0.0.2
 +ability to change volume while music is playing
+
 0.0.1
 +Ability to play .wav files
 +when starting new wav files, stops previously played files

@@ -27,6 +27,7 @@ public class Thread_MusicTracker extends Thread{
 		   while(true){
 
 			   CurrentSpot.setValue(0);
+			   timeLeft.setText("0");
 				   while(this.getName().equals("die")){
 					   try {
 						Thread.sleep(100);
